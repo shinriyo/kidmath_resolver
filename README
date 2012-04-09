@@ -1,0 +1,8 @@
+how to use
+
+requirement
+Python3.x or Python2.7
+
+imput command line below
+----
+python kidmath_resolver.py 31183 #=> 2
